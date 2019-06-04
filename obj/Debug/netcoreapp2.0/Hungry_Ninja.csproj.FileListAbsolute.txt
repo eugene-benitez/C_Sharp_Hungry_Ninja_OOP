@@ -1,0 +1,10 @@
+/Users/eugenebenitez/Desktop/C_Sharp/Hungry_Ninja/bin/Debug/netcoreapp2.0/Hungry_Ninja.deps.json
+/Users/eugenebenitez/Desktop/C_Sharp/Hungry_Ninja/bin/Debug/netcoreapp2.0/Hungry_Ninja.runtimeconfig.json
+/Users/eugenebenitez/Desktop/C_Sharp/Hungry_Ninja/bin/Debug/netcoreapp2.0/Hungry_Ninja.runtimeconfig.dev.json
+/Users/eugenebenitez/Desktop/C_Sharp/Hungry_Ninja/bin/Debug/netcoreapp2.0/Hungry_Ninja.dll
+/Users/eugenebenitez/Desktop/C_Sharp/Hungry_Ninja/bin/Debug/netcoreapp2.0/Hungry_Ninja.pdb
+/Users/eugenebenitez/Desktop/C_Sharp/Hungry_Ninja/obj/Debug/netcoreapp2.0/Hungry_Ninja.csproj.CoreCompileInputs.cache
+/Users/eugenebenitez/Desktop/C_Sharp/Hungry_Ninja/obj/Debug/netcoreapp2.0/Hungry_Ninja.AssemblyInfoInputs.cache
+/Users/eugenebenitez/Desktop/C_Sharp/Hungry_Ninja/obj/Debug/netcoreapp2.0/Hungry_Ninja.AssemblyInfo.cs
+/Users/eugenebenitez/Desktop/C_Sharp/Hungry_Ninja/obj/Debug/netcoreapp2.0/Hungry_Ninja.dll
+/Users/eugenebenitez/Desktop/C_Sharp/Hungry_Ninja/obj/Debug/netcoreapp2.0/Hungry_Ninja.pdb
